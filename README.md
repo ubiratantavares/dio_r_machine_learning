@@ -1,2 +1,13 @@
-# dio_r_machine_learning
-dio_r_machine_learning
+# DIO - R para Machine Learning
+
+## Introdução para a linguagem R
+
+## Começando a programar em R
+
+## Resolvendo o primeiro problema em R
+
+## Operadores Lógicos em R
+
+## Manipulação de vetores e matrizes
+
+## Estatística básica com R
